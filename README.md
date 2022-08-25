@@ -14,11 +14,16 @@ train_images[2]를 예시로 한 번 불러옴<br>
 <br>
 ![image](https://user-images.githubusercontent.com/79328858/186544939-cdab643d-1c97-4170-8632-cfb8d7ac9444.png)
 <br>
+
+-----
+
 모델 구축<br>
 ![image](https://user-images.githubusercontent.com/79328858/186544987-89a09126-a3de-43fe-b4e5-436ae7ee59cb.png)
 <br>
 ![image](https://user-images.githubusercontent.com/79328858/186545015-ad959a2f-cfaa-471f-a2d7-0629979e4826.png)
 <br>
+
+-----
 
 Train 결과1<br>
 ![image](https://user-images.githubusercontent.com/79328858/186543701-3fdfe7bd-adb1-4c3a-813d-df6ebe7693d0.png)
